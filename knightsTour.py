@@ -1,12 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 18 14:44:02 2018
-
-@author: yatziry
-"""
-
-#Homework 5 
 import Tkinter as Tk
 
 class KnightGame:
